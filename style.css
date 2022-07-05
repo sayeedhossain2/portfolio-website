@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.heading-desc {
+  background-image: url(donate-today-main/images/donation13.jpg);
+  background-repeat: no-repeat;
+  text-align: center;
+  background-position: center;
+  background-size: cover;
+  height: 650px;
+}
+
+.heading-desc h1 {
+  color: white;
+  font-size: 50px;
+  padding-top: 160px;
+}
+
+.heading-desc p {
+  color: white;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.link-button {
+  text-decoration: none;
+  background-color: rgb(249, 8, 84);
+  padding: 15px 30px;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+}

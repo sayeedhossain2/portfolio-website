@@ -12,7 +12,10 @@ body {
   text-align: center;
   background-position: center;
   background-size: cover;
-  height: 650px;
+  height: 600px;
+}
+.heading-desc span {
+  color: rgb(77, 255, 0);
 }
 
 .heading-desc h1 {
@@ -34,4 +37,70 @@ body {
   color: white;
   font-weight: bold;
   border-radius: 10px;
+}
+
+.donate-desc {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.donate-desc h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.donate-desc p {
+  margin-bottom: 70px;
+}
+
+.donate-amount {
+  display: flex;
+  margin-left: 250px;
+}
+
+.amount {
+  width: 150px;
+  height: 80px;
+  font-size: 30px;
+  background-color: rgb(234, 244, 244);
+  margin-right: 20px;
+  text-align: center;
+  padding-top: 30%;
+  border-radius: 10px;
+}
+
+.amount-500 {
+  border: 3px solid rgb(244, 82, 54);
+  color: tomato;
+  background-color: rgb(248, 212, 206);
+
+  width: 150px;
+  height: 80px;
+  font-size: 30px;
+  margin-right: 20px;
+  text-align: center;
+  padding-top: 30%;
+  border-radius: 10px;
+}
+
+input {
+  width: 500px;
+  margin-left: 300px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  border: none;
+  border-bottom: 1px solid rgb(225, 202, 202);
+  padding: 20px;
+  font-size: 26px;
+  padding-left: 310px;
+}
+
+.link-button-donate {
+  text-decoration: none;
+  background-color: rgb(249, 128, 8);
+  padding: 15px 30px;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-left: 48%;
 }

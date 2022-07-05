@@ -104,3 +104,47 @@ input {
   border-radius: 10px;
   margin-left: 48%;
 }
+
+.donate-plan {
+  text-align: center;
+  margin-top: 100px;
+}
+.donate-plan h1 {
+  font-size: 50px;
+}
+
+.donate-plan p {
+  font-size: 20px;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+}
+
+.card-item {
+  width: 330px;
+  height: 250px;
+  padding-left: 20px;
+  padding-top: 50px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+.card-item h1 {
+  font-size: 25px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.card-color1 {
+  background-color: rgb(221, 212, 212);
+}
+.card-color2 {
+  background-color: rgb(246, 121, 121);
+}
+.card-color3 {
+  background-color: rgb(255, 201, 201);
+}

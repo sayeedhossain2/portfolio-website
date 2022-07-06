@@ -83,7 +83,7 @@ body {
   border-radius: 10px;
 }
 
-input {
+.input-amount {
   width: 500px;
   margin-left: 300px;
   margin-top: 50px;
@@ -188,4 +188,46 @@ input {
   margin-top: 55px;
   margin-left: 20px;
   border-radius: 10px;
+}
+
+.update-part {
+  text-align: center;
+}
+
+.update-desc h1 {
+  margin-top: 8rem;
+  margin-bottom: 1.5rem;
+  font-size: 3rem;
+}
+.update-desc p {
+  opacity: 0.7;
+  margin-bottom: 3rem;
+}
+
+.input-link-button {
+  padding-top: 85px;
+  margin-left: 25%;
+  width: 700px;
+  height: 120px;
+  background-color: rgb(255, 195, 195);
+}
+
+.input-email {
+  width: 230px;
+  padding: 17px;
+  background-color: rgb(225, 219, 213);
+  border: none;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.link-button-subscribe {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(248, 151, 167), rgb(24, 59, 3));
+  padding: 15px 30px;
+  color: white;
+  font-weight: bold;
+  margin-left: -5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
 }

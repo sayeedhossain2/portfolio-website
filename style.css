@@ -84,15 +84,15 @@ body {
 }
 
 .input-amount {
-  width: 500px;
-  margin-left: 300px;
+  width: 800px;
+  margin-left: 270px;
+  text-align: center;
   margin-top: 50px;
-  margin-bottom: 60px;
+  margin-bottom: 55px;
   border: none;
   border-bottom: 1px solid rgb(225, 202, 202);
   padding: 20px;
   font-size: 26px;
-  padding-left: 310px;
 }
 
 .link-button-donate {
@@ -150,7 +150,7 @@ body {
   background-color: rgb(249, 211, 211);
 }
 
-.sylhet-crisic {
+#sylhet-crisic {
   display: flex;
   margin-top: 100px;
   height: 500px;
@@ -207,7 +207,7 @@ body {
 
 .input-link-button {
   padding-top: 85px;
-  margin-left: 25%;
+  margin: 0 auto;
   width: 700px;
   height: 120px;
   background-color: rgb(255, 195, 195);

@@ -9,10 +9,10 @@ body {
 .heading-desc {
   background-image: url(donate-today-main/images/donation13.jpg);
   background-repeat: no-repeat;
+  height: 600px;
   text-align: center;
   background-position: center;
   background-size: cover;
-  height: 600px;
 }
 .heading-desc span {
   color: rgb(77, 255, 0);
@@ -102,7 +102,7 @@ body {
   color: white;
   font-weight: bold;
   border-radius: 10px;
-  margin-left: 48%;
+  margin-left: 45%;
 }
 
 .donate-plan {
